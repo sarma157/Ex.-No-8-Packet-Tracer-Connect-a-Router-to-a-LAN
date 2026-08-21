@@ -114,6 +114,8 @@ ________________________________________<br>
 <img width="1908" height="1073" alt="image" src="https://github.com/user-attachments/assets/9740554a-9ab4-4f5b-8da2-2230e952e327" />
 <img width="1917" height="1121" alt="image" src="https://github.com/user-attachments/assets/9a7e7bbd-bfc4-4da9-bb42-bd238860ebd5" />
 <img width="1917" height="1133" alt="image" src="https://github.com/user-attachments/assets/359ddfa6-f453-4dd7-a1eb-ac25c58a79a1" />
+
 # Result
+
 R1 and R2 were configured with correct IPv4 addresses and interface descriptions, links were brought up, routing tables showed connected networks, and end-to-end connectivity between PCs across the WAN link was verified using pings. The configurations were saved to NVRAM for persistence.<br>
 
