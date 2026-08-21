@@ -111,6 +111,7 @@ ________________________________________<br>
 •	Save: copy running-config startup-config / wr <br>
 ________________________________________<br>
 # Output (Attach Screenshots)
+<img width="1710" height="698" alt="image" src="https://github.com/user-attachments/assets/c667089c-ae16-414b-988c-98a1f3611a5c" />
 <img width="1908" height="1073" alt="image" src="https://github.com/user-attachments/assets/9740554a-9ab4-4f5b-8da2-2230e952e327" />
 <img width="1917" height="1121" alt="image" src="https://github.com/user-attachments/assets/9a7e7bbd-bfc4-4da9-bb42-bd238860ebd5" />
 <img width="1917" height="1133" alt="image" src="https://github.com/user-attachments/assets/359ddfa6-f453-4dd7-a1eb-ac25c58a79a1" />
